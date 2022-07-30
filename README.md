@@ -10,7 +10,7 @@ This project is a snipper from a video that propose a solution in python and ten
 2. make run
 3. Enjoy!
 
-
+<img alt="Image of the plot output FB price" src="https://github.com/hanschrome/StockPricesPrediction/blob/main/prediction.png?raw=true">
 
 ## Changelog
 
